@@ -11,7 +11,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Manage Identity and Access          | <a href="Role-Based Access Control">Role Based Access Control Lab</a>|
 | Plan and implement security for virtual networks         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Network Security Groups and Application Security Groups</a>|
-| Plan and implement security for public access to Azure resources         | <a href="Configuring and Securing ACR and AKS">Azure Firewall</a>|
+| Plan and implement security for public access to Azure resources         | <a href="Azure Firewall">Azure Firewall</a>|
 | Secure compute, storage, and databases      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Configuring and Securing ACR and AKS</a>|
 | Plan and implement security for Azure SQL Database and Azure SQL Managed Instance                  | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Securing Azure SQL Database </a>|
 | Plan and implement security for Azure SQL Database and Azure SQL Managed Instance      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Service Endpoints and Securing Storage </a>|
