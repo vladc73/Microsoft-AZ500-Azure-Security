@@ -6,15 +6,20 @@ I recently completed ZTM Academy Certification with a profound interest in techn
 ## Objective
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be a Cloud Security Analyst.
 
-## Skills
-| Skill                                         | Associated Project         |
+## Lab Exercises
+| Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Manage Identity and Access          | <a href="Role-Based Access Control">Role Based Access Control Lab</a>|
-| Plan and implement security for virtual networks         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Network Security Groups and Application Security Groups Lab</a>|
-| Vulnerability Scanning         | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
-| Vulnerability Remediation      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Plan and implement security for virtual networks         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Network Security Groups and Application Security Groups</a>|
+| Plan and implement security for public access to Azure resources         | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Azure Firewall</a>|
+| Secure compute, storage, and databases      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Configuring and Securing ACR and AKS</a>|
+| Plan and implement security for Azure SQL Database and Azure SQL Managed Instance                  | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Securing Azure SQL Database </a>|
+| Plan and implement security for Azure SQL Database and Azure SQL Managed Instance      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Service Endpoints and Securing Storage </a>|
+| Implement and manage enforcement of cloud governance policies      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Key Vault (Implementing Secure Data by setting up Always Encrypted) </a>|
+| Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR)</a>|
+| Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers</a>|
+|  Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Enable just-in-time access on VMs</a>|
+| Configure and manage security monitoring and automation solutions      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Microsoft Sentinel</a>|
 
 ## Tools
 ### Network
@@ -43,10 +48,3 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
-
-## Projects
-- <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>
-- <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>
-- IDS/Zeek Network Monitoring Lab
-- Set up Honeypot
-- Wazuh to SOAR Implementation
