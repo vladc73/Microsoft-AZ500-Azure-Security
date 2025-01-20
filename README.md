@@ -1,7 +1,7 @@
 # Hello, I'm Vladimir
 <a href="[https://www.linkedin.com/in/vladimirclifton/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I recently completed ZTM Academy Certification with a profound interest in technology and a dedication to solving complex problems.
+I recently completed the Micosoft AZ500 Azure Security Technologies labs with a profound interest in technology and a dedication to solving complex problems in the cloud.
 
 ## Objective
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be a Cloud Security Analyst.
@@ -31,5 +31,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
 <img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials -FF0000?&style=for-the-badge&logo=Amazon&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials -FF0000?&style=for-the-badge&logo=Amazon&logoColor=yellow" />
 </div>
