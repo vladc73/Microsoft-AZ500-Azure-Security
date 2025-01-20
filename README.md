@@ -10,7 +10,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Manage Identity and Access          | <a href="Role-Based Access Control">Role Based Access Control Lab</a>|
-| Dynamic Malware Analysis         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Plan and implement security for virtual networks         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Network Security Groups and Application Security Groups Lab</a>|
 | Vulnerability Scanning         | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
 | Vulnerability Remediation      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
