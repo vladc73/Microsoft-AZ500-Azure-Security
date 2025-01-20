@@ -31,5 +31,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
 <img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials -FF0000?&style=for-the-badge&logo=Amazon&logoColor=yellow" />
+<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials -FF0000?&style=for-the-badge&logo=Amazon&logoColor=black" />
 </div>
