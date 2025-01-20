@@ -22,7 +22,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Configure and manage security monitoring and automation solutions      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Microsoft Sentinel</a>|
 
 ## Tools
-### Network
+### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft Azure-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
