@@ -18,7 +18,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Implement and manage enforcement of cloud governance policies      | <a href="Key Vault">Key Vault (Implementing Secure Data by setting up Always Encrypted) </a>|
 | Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="Create a Log Analytics Workspace">Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR)</a>|
 | Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="Configuring Microsoft Defender">Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers</a>|
-|  Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Enable just-in-time access on VMs</a>|
+|  Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="Enable just-in-time access on VMs">Enable just-in-time access on VMs</a>|
 | Configure and manage security monitoring and automation solutions      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Microsoft Sentinel</a>|
 
 ## Tools
