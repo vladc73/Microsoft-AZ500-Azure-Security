@@ -15,7 +15,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Secure compute, storage, and databases      | <a href="Configuring and Securing ACR and AKS">Configuring and Securing ACR and AKS</a>|
 | Plan and implement security for Azure SQL Database and Azure SQL Managed Instance                  | <a href="Securing Azure SQL Database">Securing Azure SQL Database </a>|
 | Plan and implement security for Azure SQL Database and Azure SQL Managed Instance      | <a href="Service Endpoints and Securing Storage">Service Endpoints and Securing Storage </a>|
-| Implement and manage enforcement of cloud governance policies      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Key Vault (Implementing Secure Data by setting up Always Encrypted) </a>|
+| Implement and manage enforcement of cloud governance policies      | <a href="Key Vault">Key Vault (Implementing Secure Data by setting up Always Encrypted) </a>|
 | Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR)</a>|
 | Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers</a>|
 |  Configure and manage threat protection by using Microsoft Defender for Cloud      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Enable just-in-time access on VMs</a>|
