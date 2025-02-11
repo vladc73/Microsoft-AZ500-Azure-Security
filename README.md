@@ -1,6 +1,4 @@
 # Hello, I'm Vladimir
-<a href="[https://www.linkedin.com/in/vladimirclifton/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 I recently completed the Micosoft AZ500 Azure Security Technologies labs with a profound interest in technology and a dedication to solving complex problems in the cloud.
 
 ## Objective
